@@ -1,0 +1,99 @@
+{
+  "sidebar": {
+    "online": "Online",
+    "newChat": "New Chat",
+    "searchPlaceholder": "Search chats...",
+    "aiEngine": "AI Engine v5.1"
+  },
+  "header": {
+    "selectModel": "Select model",
+    "noVision": "No Vision",
+    "palette": "Palette"
+  },
+  "status": {
+    "context": "Context",
+    "speed": "Speed",
+    "typing": "AI Typing",
+    "vram": "VRAM",
+    "ram": "RAM",
+    "loading": "Loading...",
+    "error": "Error",
+    "cancelled": "Cancelled",
+    "noVisionModules": "No vision modules",
+    "unload": "Unloading...",
+    "modelLoaded": "Model loaded",
+    "modelUnloaded": "Model unloaded"
+  },
+  "input": {
+    "attachImage": "Attach image",
+    "writeMessage": "Write a message...",
+    "scrollDown": "Scroll down",
+    "scrollUp": "Scroll up"
+  },
+  "settings": {
+    "exportImport": "Export/Import",
+    "all": "All",
+    "chat": "Chat",
+    "import": "Import",
+    "thinking": "Thinking",
+    "gpu": "GPU",
+    "theme": "Theme",
+    "textGradient": "Text Gradient",
+    "buttonHighlight": "Button Highlight",
+    "buttonColor": "Button Color",
+    "chatColor": "Chat Color",
+    "wallpaper": "Wallpaper",
+    "resetAll": "Reset All",
+    "resetWallpaper": "Reset Wallpaper",
+    "resetColor": "Reset Color",
+    "resetHighlight": "Reset Highlight",
+    "resetGradient": "Reset Gradient",
+    "uploadWallpaper": "Upload Wallpaper",
+    "colorLabel": "Color"
+  },
+  "agents": {
+    "agents": "Agents",
+    "assistants": "Assistants",
+    "newAgent": "New Agent",
+    "newAssistant": "New Assistant",
+    "empty": "Empty"
+  },
+  "params": {
+    "title": "Parameters",
+    "flashAttention": "Flash Attention",
+    "flashAttentionDesc": "GPU attention acceleration",
+    "temperature": "Temperature",
+    "temperatureDesc": "Response creativity (higher = more random)",
+    "topP": "Top P",
+    "topPDesc": "Alternative word sampling (0.95 recommended)",
+    "maxTokens": "Max Tokens",
+    "maxTokensDesc": "Maximum model response length",
+    "contextSize": "Context Size",
+    "contextSizeDesc": "Dialog memory size (requires reload)",
+    "nBatch": "N Batch",
+    "nBatchDesc": "Prompt batch processing (load speed)",
+    "repeatPenalty": "Repeat Penalty",
+    "repeatPenaltyDesc": "Penalty for repeating same phrases",
+    "topK": "Top K",
+    "topKDesc": "Limitation of selectable words circle",
+    "gpuLayers": "GPU Layers",
+    "gpuLayersDesc": "Number of GPU layers (-1 = all)",
+    "reset": "Reset",
+    "apply": "Apply"
+  },
+  "modal": {
+    "newAssistant": "New Assistant",
+    "name": "Name",
+    "systemPrompt": "System Prompt",
+    "save": "Save",
+    "profile": "Profile",
+    "clickToUpload": "Click to upload avatar",
+    "deleteAvatar": "Delete Avatar",
+    "agentProfile": "Agent Profile",
+    "cropImage": "Crop Image",
+    "dragToSelect": "Drag image to select area",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "temperature": "Temperature"
+  }
+}

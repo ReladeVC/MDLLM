@@ -1,0 +1,99 @@
+{
+  "sidebar": {
+    "online": "Online",
+    "newChat": "Новый чат",
+    "searchPlaceholder": "Поиск чатов...",
+    "aiEngine": "AI Engine v5.1"
+  },
+  "header": {
+    "selectModel": "Выберите модель",
+    "noVision": "Без Vision",
+    "palette": "Палитра"
+  },
+  "status": {
+    "context": "Контекст",
+    "speed": "Скорость",
+    "typing": "AI Печатает",
+    "vram": "VRAM",
+    "ram": "RAM",
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "cancelled": "Отменено",
+    "noVisionModules": "Нет vision модулей",
+    "unload": "Выгрузка...",
+    "modelLoaded": "Модель загружена",
+    "modelUnloaded": "Модель выгружена"
+  },
+  "input": {
+    "attachImage": "Прикрепить изображение",
+    "writeMessage": "Напишите сообщение...",
+    "scrollDown": "Прокрутить вниз",
+    "scrollUp": "Прокрутить вверх"
+  },
+  "settings": {
+    "exportImport": "Экспорт/Импорт",
+    "all": "Всё",
+    "chat": "Чат",
+    "import": "Импорт",
+    "thinking": "Мышление",
+    "gpu": "GPU",
+    "theme": "Тема",
+    "textGradient": "Цвет надписей",
+    "buttonHighlight": "Подсветка кнопок",
+    "buttonColor": "Цвет кнопок",
+    "chatColor": "Цвет чата",
+    "wallpaper": "Обои чата",
+    "resetAll": "Сбросить всё",
+    "resetWallpaper": "Сбросить обои",
+    "resetColor": "Сбросить цвет",
+    "resetHighlight": "Сбросить подсветку",
+    "resetGradient": "Сбросить градиент",
+    "uploadWallpaper": "Загрузить обои",
+    "colorLabel": "Цвет"
+  },
+  "agents": {
+    "agents": "Агенты",
+    "assistants": "Ассистенты",
+    "newAgent": "Новый агент",
+    "newAssistant": "Новый ассистент",
+    "empty": "Пусто"
+  },
+  "params": {
+    "title": "Параметры",
+    "flashAttention": "Flash Attention",
+    "flashAttentionDesc": "Ускорение внимания на GPU",
+    "temperature": "Temperature",
+    "temperatureDesc": "Креативность ответов (выше = случайнее)",
+    "topP": "Top P",
+    "topPDesc": "Альтернативная выборка слов (0.95 рекомендуется)",
+    "maxTokens": "Max Tokens",
+    "maxTokensDesc": "Максимальная длина ответа модели",
+    "contextSize": "Context Size",
+    "contextSizeDesc": "Объем памяти диалога (требует перезагрузки)",
+    "nBatch": "N Batch",
+    "nBatchDesc": "Пакетная обработка промпта (скорость загрузки)",
+    "repeatPenalty": "Repeat Penalty",
+    "repeatPenaltyDesc": "Штраф за повторение одних и тех же фраз",
+    "topK": "Top K",
+    "topKDesc": "Ограничение круга выбираемых слов",
+    "gpuLayers": "GPU Layers",
+    "gpuLayersDesc": "Количество слоев на видеокарте (-1 = все)",
+    "reset": "Сброс",
+    "apply": "Применить"
+  },
+  "modal": {
+    "newAssistant": "Новый ассистент",
+    "name": "Имя",
+    "systemPrompt": "Системный промпт",
+    "save": "Сохранить",
+    "profile": "Профиль",
+    "clickToUpload": "Нажмите для загрузки аватара",
+    "deleteAvatar": "Удалить аватар",
+    "agentProfile": "Профиль агента",
+    "cropImage": "Обрезать изображение",
+    "dragToSelect": "Перетаскивайте изображение для выбора области",
+    "cancel": "Отмена",
+    "apply": "Применить",
+    "temperature": "Температура"
+  }
+}

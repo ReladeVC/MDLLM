@@ -1,0 +1,10 @@
+{
+  "host": "0.0.0.0",
+  "port": 3595,
+  "debug": false,
+  "max_upload_size_mb": 100,
+  "max_image_size_mb": 50,
+  "max_history_messages": 50,
+  "request_timeout": 300,
+  "stream_timeout": 600
+}

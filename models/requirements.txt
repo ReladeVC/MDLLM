@@ -1,0 +1,9 @@
+# DM LLM Portable - Dependencies
+# Install: pip install -r requirements.txt
+# Note: llama-cpp-python requires special build for CUDA support.
+#       Use: pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu121
+
+flask>=3.0
+flask-cors>=4.0
+numpy>=1.24
+psutil>=5.9
